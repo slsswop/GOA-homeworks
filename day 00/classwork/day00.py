@@ -1,0 +1,3 @@
+name = "stephane"
+print(name)
+
