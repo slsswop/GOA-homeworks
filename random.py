@@ -1,0 +1,2 @@
+alik = 
+print(alik)
