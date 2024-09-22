@@ -1,2 +1,1 @@
-alik = 
-print(alik)
+
